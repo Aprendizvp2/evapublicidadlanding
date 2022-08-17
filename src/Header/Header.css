@@ -1,0 +1,102 @@
+.buttons-before {
+  text-decoration: none;
+  margin: 15px;
+  padding-bottom: 27px;
+  color: white !important;
+  border-color: transparent;
+  border-bottom: 3px solid transparent;
+  transition: 0.3s;
+}
+
+.buttons-before:hover {
+  text-decoration: none;
+  margin: 15px;
+  padding-bottom: 27px;
+  border-bottom: 3px solid white;
+  color: white !important;
+  transition: 0.3s;
+}
+
+.buttons-after {
+  text-decoration: none;
+  margin: 15px;
+  padding-bottom: 27px;
+  color: black !important;
+  border-color: transparent;
+  border-bottom: 3px solid transparent;
+  transition: 0.3s;
+}
+
+.buttons-after:hover {
+  text-decoration: none;
+  margin: 15px;
+  padding-bottom: 27px;
+  border-bottom: 3px solid #29A4CD;
+  color: #29A4CD !important;
+  transition: 0.3s;
+}
+
+.contactus-button-before {
+  text-decoration: none;
+  padding: 15px;
+  margin: 10px;
+  color: white !important;
+  border: 2px solid;
+  border-radius: 90px;
+  border-color: white;
+  transition: 0.3s;
+}
+
+.contactus-button-before:hover {
+  text-decoration: none;
+  padding: 15px;
+  margin: 10px;
+  color: #29A4CD !important;
+  background-color: white !important;
+  border: 2px solid;
+  border-radius: 90px;
+  border-color: transparent;
+  transition: 0.3s;
+}
+
+.contactus-button-after {
+  text-decoration: none;
+  padding: 15px;
+  margin: 10px;
+  color: black !important;
+  border: 2px solid;
+  border-radius: 90px;
+  border-color: black;
+  transition: 0.3s;
+}
+
+.contactus-button-after:hover {
+  text-decoration: none;
+  padding: 15px;
+  margin: 10px;
+  color: white !important;
+  background-color: #29A4CD !important;
+  border: 2px solid;
+  border-radius: 90px;
+  border-color: transparent ;
+  transition: 0.3s;
+}
+
+.button-menu-before {
+  text-decoration: none;
+  padding-bottom: 27px;
+  color:  white !important;
+  transition: 0.3s;
+}
+
+.button-menu-after {
+  text-decoration: none;
+  padding-bottom: 27px;
+  color: black !important;
+  transition: 0.3s;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}

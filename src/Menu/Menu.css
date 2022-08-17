@@ -1,0 +1,22 @@
+.buttons-menu {
+  text-decoration: none;
+  margin: 10px;
+  padding-bottom: 30px;
+  color: #29A4CD !important;
+  border-color: transparent;
+  border-bottom: 3px solid transparent;
+  transition: 0.3s;
+}
+
+.buttons-menu:hover {
+  text-decoration: none;
+  margin: 10px;
+  padding-bottom: 30px;
+  border-bottom: 3px solid black;
+  color: black !important;
+  transition: 0.3s;
+}
+
+html {
+  scroll-behavior: smooth;
+}
